@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to convert DICOMs (dcm) to NIFTI (nii) and MINC (mnc) on CIC
+# Script to convert DICOMs (dcm) to NIFTI (nii) and MINC (mnc) for lepage LAM study on CIC
 # See documentation: https://github.com/katielavigne/documentation/wiki/CIC-scan-transfer
 
 # MODIFY FOR YOUR STUDY

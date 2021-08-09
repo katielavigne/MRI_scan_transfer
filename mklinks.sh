@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to link mincs and niftis (bids compliant) for LAM study on CIC
+# Script to link mincs and niftis (bids compliant) for lepage LAM study on CIC
 # Usage: ./mklinks.sh ${subject} ${timepoint}
 
 # MODIFY FOR YOUR STUDY
